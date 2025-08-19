@@ -22,7 +22,7 @@ O projeto **TelecomX** foi desenvolvido para analisar dados reais de churn de um
 telecom-x/
 │
 ├── notebooks/
-│   └── telecom_analysis.ipynb          # Notebook principal com análises
+│   └── TelecomX_GFV.ipynb          # Notebook principal com análises
 │
 ├── data/
 │   └── raw/
